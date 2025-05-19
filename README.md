@@ -7,8 +7,8 @@ A comprehensive collection of machine learning lab assignments and mini-projects
 ## 📌 Topics Covered
 
 ### 📊 Data Handling & Visualization
-- Data handling using NumPy, Pandas, and Python’s statistics library
-- Data analysis and visualization on Diwali Sales Dataset
+- Project - 1 : Data handling using NumPy, Pandas, and Python’s statistics library
+- Project - 2 : Data analysis and visualization on Diwali Sales Dataset
 
 ### 📈 Regression Algorithms
 - Simple Linear Regression
