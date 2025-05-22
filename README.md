@@ -11,9 +11,10 @@ A comprehensive collection of machine learning lab assignments and mini-projects
 - Project - 2 : Data analysis and visualization on Diwali Sales Dataset
 
 ### 📈 Regression Algorithms
-- Simple Linear Regression
-- Multiple Linear Regression
-- Logistic Regression
+- Project - 3 : Simple Linear Regression
+- Project - 4 : Multiple Linear Regression
+- Project - 5 : Logistic Regression
+- Project - 6 : Polynamial Regression 
 
 ### 🧪 Classification Algorithms
 - Naïve Bayes Classifier on CSV data
