@@ -28,15 +28,16 @@ A comprehensive collection of machine learning lab assignments and mini-projects
   - K-Means Clustering
 
 ### 🔍 Probabilistic Graphical Models
-- Bayesian Network using medical data
-- Diagnosis of heart patients using Heart Disease Dataset
+- Project - 12 :
+   - Bayesian Network using medical data
+   - Diagnosis of heart patients using Heart Disease Dataset
 
 ### ⚖️ Algorithm Comparisons
-- Comparison of Supervised Learning Algorithms
-- Comparison of Unsupervised Learning Algorithms
+- Project - 13 : Comparison of Supervised Learning Algorithms
+- Project - 14 : Comparison of Unsupervised Learning Algorithms
 
 ### 🧠 Neural Networks
-- Artificial Neural Network with Backpropagation Algorithm
+- Project - 15 : Artificial Neural Network with Backpropagation Algorithm
 
 ---
 
