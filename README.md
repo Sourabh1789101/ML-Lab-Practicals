@@ -17,10 +17,10 @@ A comprehensive collection of machine learning lab assignments and mini-projects
 - Project - 6 : Polynamial Regression 
 
 ### 🧪 Classification Algorithms
-- Naïve Bayes Classifier on CSV data
-- Naïve Bayes for Document Classification
-- Decision Tree using ID3 Algorithm
-- K-Nearest Neighbors (KNN) on Iris Dataset
+- Project - 7 : Naïve Bayes Classifier on CSV data
+- Project - 8 : Naïve Bayes for Document Classification
+- Project - 9 : Decision Tree using ID3 Algorithm
+- Project - 10 : K-Nearest Neighbors (KNN) on Iris Dataset
 
 ### 🎯 Clustering Algorithms
 - Expectation Maximization (EM Algorithm)
