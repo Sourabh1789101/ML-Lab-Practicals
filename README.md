@@ -23,8 +23,9 @@ A comprehensive collection of machine learning lab assignments and mini-projects
 - Project - 10 : K-Nearest Neighbors (KNN) on Iris Dataset
 
 ### 🎯 Clustering Algorithms
-- Expectation Maximization (EM Algorithm)
-- K-Means Clustering
+- Project - 11 :
+  - Expectation Maximization (EM Algorithm)
+  - K-Means Clustering
 
 ### 🔍 Probabilistic Graphical Models
 - Bayesian Network using medical data
